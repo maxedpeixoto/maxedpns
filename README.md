@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou @maxedpns;
-- 👀 Estou interessado em programar aplicativos para Android;
-- 🌱 Estou atualmente aprendendo Kotlin;
+- 👀 Estou interessado em desenvolver soluções para integrar ERPs com a WEB;
+- 🌱 Estou atualmente aprendendo Python;
 - 💞️ E quero colaborar com projetos que sejam nessa linguagem;
 - 📫 Para falar comigo, meu e-mail é maxedpeixoto@gmail.com
 
